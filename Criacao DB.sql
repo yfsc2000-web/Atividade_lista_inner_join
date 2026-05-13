@@ -126,7 +126,7 @@ values
 -- 4. Funcionários
 INSERT INTO Employees (FirstName, LastName, BirthDate, Notes) 
 values
-('Michel', 'Silva', '2000-05-15', 'Foco em otimização e arquitetura de sistema.'),
+('Igor', 'Silva', '2002-07-15', 'Foco em otimização e arquitetura de sistema.'),
 ('Roberto', 'Almeida', '1985-03-22', 'Especialista em banco de dados e normalização.'),
 ('Carla', 'Mendes', '1992-11-10', 'Responsável pelo setor de logística e envios.'),
 ('Fernanda', 'Costa', '1998-07-05', 'Atendimento ao cliente e suporte técnico.');
